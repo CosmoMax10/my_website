@@ -21,7 +21,8 @@
   "homepage": "https://github.com/CosmoMax10/my_website#readme",
   "dependencies": {
     "bulma": "^0.9.4",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^5.3.4"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^2.2.0",
