@@ -8,6 +8,7 @@ import { Projects } from "./pages/Projects";
 import { Metaverse } from "./pages/projects/Metaverse";
 import { Intern } from "./pages/projects/Intern";
 import { Contact } from "./pages/Contact";
+import { CryptoTrade } from "./pages/projects/CryptoTrade";
 
 export function BulmaPractice() {
     return (
@@ -25,15 +26,19 @@ export function BulmaPractice() {
           <Route path="/projectslist">
           <Projects/>
           </Route>
-          <Route path="/projects/metaverse">
+          <Route path="/metaverse">
             <Metaverse/>
           </Route>
-          <Route path="/projects/intern">
+          <Route path="intern">
             <Intern/>
           </Route>
           <Route path="/contact">
             <Contact/>
           </Route>
+          <Route path="/cryptotrade">
+            <CryptoTrade/>
+          </Route>
+
         </Switch>
       </Router>
       <Footer/>

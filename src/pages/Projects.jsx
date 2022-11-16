@@ -5,14 +5,42 @@ export function Projects() {
     return (
         <div>
             <div className="container">
-            <p>These are my projects.</p>
-            <p><a href="../">Go Back</a></p>
 
             <section className="section">
-                <p>
-                    <a href="../projects/metaverse">Metaverse</a>
-                </p>
+                <section className="section">
+                <p><div className="title">Projects</div></p>
+                </section>
+                <div className="subtitle">画像をクリックしてください</div>
+
             </section>
+
+            <body>
+                <section className="section">
+                    <a href="../metaverse">
+                        <div className="title">Metaverse</div>
+                        <img src="../../public/images/metaverse.jpg" width="800" height="400"></img></a>
+                </section>
+
+                <section className="section">
+                    
+                </section>
+
+                <section className="section">
+                    <a href="../cryptotrade">
+                        <div className="title">Crypto Trading</div>
+                        <img src="../../public/images/cryptotrading.jpg" width="800" height="400"></img></a>
+                </section>
+
+                <section className="section">
+                    
+                </section>
+            </body>
+
+
+
+            <p><a href="../">Go Back</a></p>
+
+            
             </div>
 
         </div>

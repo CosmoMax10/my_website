@@ -25,26 +25,9 @@ export function Header() {
         Projects
       </a>
 
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          More
-        </a>
-
-        <div class="navbar-dropdown">
-          <a class="navbar-item">
-            About
-          </a>
-          <a class="navbar-item">
-            Jobs
-          </a>
-          <a class="navbar-item">
-            Contact
-          </a>
-          <a class="navbar-item">
-            Report an issue
-          </a>
-        </div>
-      </div>
+      <a class="navbar-item" href="/contact">
+        Contact
+      </a>
     </div>
 
    
