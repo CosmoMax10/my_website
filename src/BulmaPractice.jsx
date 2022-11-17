@@ -29,7 +29,7 @@ export function BulmaPractice() {
           <Route path="/metaverse">
             <Metaverse/>
           </Route>
-          <Route path="intern">
+          <Route path="/intern">
             <Intern/>
           </Route>
           <Route path="/contact">

@@ -1,7 +1,17 @@
-export function Contact() {
+import { ContactUs } from "../components/ContactUs"
+
+export function Contact () {
     return(
+
         <div>
-            Contact.
+            <div className="container">
+                <div className="section">
+                    <div className="title">
+                        Contact
+                    </div>
+                </div>
+            </div>
+            <ContactUs/>
         </div>
     )
 }

@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Metaverse } from "./projects/Metaverse";
+import { GoBack } from "../components/GoBack";
 
 export function Projects() {
     return (
@@ -42,10 +43,19 @@ export function Projects() {
 
 
 
-            <p><a href="../">Go Back</a></p>
+            
 
             
             </div>
+            
+            <div className="container">
+            <section className="section">
+            
+            <a class="navbar-item" href="../">
+            Go Back
+          </a>
+    
+            </section></div>
 
         </div>
     )

@@ -1,17 +1,15 @@
+import { GoBack } from "../components/GoBack"
+
 export function AboutMe() {
     return (
         <div>
             <div className="container">
                 
             <section className="section">
-                <div className="content ">
-                   
-                        
-                    
-                    <h1>About me</h1>
-
-                    
-
+                
+                    <div className="title">About me</div>
+                    </section>
+                    <div className="content ">
                 <ul>
                     <li>2003年生まれる。</li>
                     <li>2019年広島大学附属福山高等学校入学。</li>
@@ -23,6 +21,9 @@ export function AboutMe() {
 
                 </ul>
                 </div>
+                
+            
+                <section className="section">
 
                 <div className="columns">
                 <div className="column">
@@ -47,12 +48,18 @@ export function AboutMe() {
                 </div>
 
                 </div>
-            </section>
-
+          
+                </section>
            
-            <section className="section">
-            <p ><a href="../">Go back</a></p>
-            </section>
+                <div className="container">
+        <section className="section">
+        
+        <a class="navbar-item" href="../">
+        Go Back
+      </a>
+
+        </section></div>
+        
             </div>
         </div>
             
