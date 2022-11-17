@@ -2,7 +2,10 @@ export function Metaverse() {
     return (
         <div>
             <div className="container">
-                Metaverse!!
+                <div className="title">
+                </div>
+
+
                 <section className="section">
                     <p>
                         <a href="../../projectslist">Go back</a>

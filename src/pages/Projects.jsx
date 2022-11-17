@@ -32,8 +32,12 @@ export function Projects() {
                 </section>
 
                 <section className="section">
-                    
+                    <a href="../intern">
+                        <div className="title">Intern</div>
+                        <img src="../../public/images/intern_10.jpg" width="800" height="400"></img></a>
                 </section>
+
+               
             </body>
 
 
