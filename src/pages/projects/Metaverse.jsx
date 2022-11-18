@@ -12,7 +12,7 @@ export function Metaverse() {
         </div>
 
         <section className="section">
-        <img src="../../../public/images/metaverse_dev.jpg
+        <img src="images/metaverse_dev.jpg
         "></img></section>
         
         </section>

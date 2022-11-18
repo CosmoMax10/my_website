@@ -19,7 +19,7 @@ export function Projects() {
                 <section className="section">
                     <a href="../metaverse">
                         <div className="title">Metaverse</div>
-                        <img src="../../public/images/metaverse.jpg" width="800" height="400"></img></a>
+                        <img src="images/metaverse.jpg" width="800" height="400"></img></a>
                 </section>
 
                 <section className="section">
@@ -29,13 +29,13 @@ export function Projects() {
                 <section className="section">
                     <a href="../cryptotrade">
                         <div className="title">Crypto Trading</div>
-                        <img src="../../public/images/cryptotrading.jpg" width="800" height="400"></img></a>
+                        <img src="images/cryptotrading.jpg" width="800" height="400"></img></a>
                 </section>
 
                 <section className="section">
                     <a href="../intern">
                         <div className="title">Intern</div>
-                        <img src="../../public/images/intern_10.jpg" width="800" height="400"></img></a>
+                        <img src="images/intern_10.jpg" width="800" height="400"></img></a>
                 </section>
 
                

@@ -9,7 +9,7 @@ export function CryptoTrade() {
                 Crypto Trading
                 </div></section>
                 <section className="section">
-                <img src="../../../public/images/binance.png"></img>
+                <img src="images/binance.png"></img>
                 </section>
                 <section className="section">
                     私は仮想通貨の自動売買botを自作しました。<br></br>

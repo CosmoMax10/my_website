@@ -12,7 +12,7 @@ export function Intern() {
                 </section>
             
                 <section className="section">
-                    <img src="../../../public/images/IMG_1017.jpg" width="600" height="600"></img>
+                    <img src="images/IMG_1017.jpg" width="600" height="600"></img>
                 </section>
 
                 <section className="section">

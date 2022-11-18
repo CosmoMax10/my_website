@@ -27,7 +27,7 @@ export function AboutMe() {
 
                 <div className="columns">
                 <div className="column">
-                       <img src="../../public/images/IMG_1064.JPG" alt="写真" width="300" height="4000"></img>
+                       <img src="images/IMG_1064.JPG" alt="写真" width="300" height="4000"></img>
                            
                 </div>
                 <div className="column is-3">

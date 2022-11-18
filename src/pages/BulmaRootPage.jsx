@@ -5,7 +5,7 @@ export function BulmaRootPage() {
         <div>
             <div className="container">
                 <div className="content">
-                    <img src="../../public/images/IMG_1051.JPG"></img>
+                    <img src="images/IMG_1051.JPG"></img>
                 </div>            
             </div>
         </div>
