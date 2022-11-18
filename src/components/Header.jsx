@@ -4,7 +4,7 @@ export function Header() {
 <div className="container">
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="http://127.0.0.1:5173/">
+    <a class="navbar-item" href="../">
       <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28"></img>
     </a>
 
