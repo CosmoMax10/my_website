@@ -10,9 +10,7 @@ export function Header() {
 
     
   </div>
-
-  <div id="navbarBasicExample" class="navbar-menu">
-    <div class="navbar-start">
+  <div class="navbar-start">
       <a class="navbar-item" href="/aboutme">
         About Me
       </a>
@@ -24,7 +22,7 @@ export function Header() {
       <a class="navbar-item" href="/contact">
         Contact
       </a>
-    </div>
+
 
    
   </div>
